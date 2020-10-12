@@ -1,0 +1,2 @@
+# SpectatorView
+new SpectatorView 
